@@ -5,7 +5,7 @@
         }
 
         body {
-            background-image: url('/CSProfElect2/img/racingbg.avif');
+            background-image: url('/img/racingbg.avif');
         }
 
         .container {
@@ -26,7 +26,7 @@
         }
 
         .track {
-            background-image: url('/CSProfElect2/img/track.png');
+            background-image: url('/img/track.png');
             margin-top: 20px;
             height: 30%;
             background-size: 100% 100%;
